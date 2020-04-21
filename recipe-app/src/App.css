@@ -1,0 +1,59 @@
+ body{
+  background-color:rgb(7, 48, 61);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+  margin:80px;
+  
+}
+.box img{
+  border-radius: 80px;
+  margin-left: 18vh;
+  margin-top: 10vh;
+}
+ 
+.innerbox{
+  border-radius: 20px;
+  float:left;
+  background-color:rgb(181, 192, 196);
+  width: 520px;
+  height: 1080px;
+   margin: 25px; 
+  font-size: 15px;
+} 
+
+.title{
+  margin: 30px 83vh;
+  color:white;
+  font-weight: 500px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.App input{
+  margin:0px 70vh;
+  width: 65vh;
+  height: 38px;
+  border-radius:33px;
+  outline:none;
+}
+::placeholder {
+  margin-left: -10px;
+}
+.App button{
+  margin: -68vh;
+  height: 42px;
+  width: 70px;
+  background-color: cadetblue;
+  border: 10px;
+  color: #f1f1f1;
+  border-radius: 20px;
+  outline: none;
+}
+.innerbox h1,h4{
+  color:darkslategray;
+  text-align: center;
+
+}
+li{
+  font-size: 18px;
+  justify-content:left;
+}
